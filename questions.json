@@ -1,11 +1,146 @@
 [
     {
+        "id": 1,
         "category": "History",
         "question": "Who was the first president of the United States?",
-        "answers": ["George Washington"],
+        "answers": ["george washington"],
+        "answerType": "text",
         "difficulty": "easy",
         "points": 100,
         "attempts": 0,
-        "correctAttempts": 0
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 2,
+        "category": "History",
+        "question": "When was the Declaration of Independence signed?",
+        "answers": ["1776-08-02"],
+        "answerType": "date",
+        "difficulty": "easy",
+        "points": 300,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 3,
+        "category": "History",
+        "question": "The United States bought Alaska from which country?",
+        "answers": ["russia"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 400,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 4,
+        "category": "History",
+        "question": "Who was the fourth president of the United States?",
+        "answers": ["james madison"],
+        "answerType": "text",
+        "difficulty": "easy",
+        "points": 200,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 5,
+        "category": "History",
+        "question": "Which era marked a switch from agricultural practices to industrial practices?",
+        "answers": ["the industrial revolution", "industrial revolution"],
+        "answerType": "text",
+        "difficulty": "easy",
+        "points": 200,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 6,
+        "category": "History",
+        "question": "Fill in the blank: The 19th Amendment guarantees ____ the right to vote",
+        "answers": ["women", "womens", "women's"],
+        "answerType": "text",
+        "difficulty": "easy",
+        "points": 200,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 7,
+        "category": "History",
+        "question": "Which four presidents are on Mount Rushmore?",
+        "answers": ["george washington", "abraham lincoln", "thomas jefferson", "theodore roosevelt"],
+        "answerType": "multiple",
+        "difficulty": "easy",
+        "points": 200,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 8,
+        "category": "History",
+        "question": "Who was the first woman to make a million dollars in the United States?",
+        "answers": ["madam walker", "madam cj walker", "madam c.j. walker", "madam c.j walker"],
+        "answerType": "text",
+        "difficulty": "easy",
+        "points": 300,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 9,
+        "category": "History",
+        "question": "What was the first state to legalize same-sex marriage?",
+        "answers": ["massachusetts"],
+        "answerType": "text",
+        "difficulty": "easy",
+        "points": 100,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 10,
+        "category": "History",
+        "question": "Which year was George H.W. Bush elected president?",
+        "answers": ["1988"],
+        "answerType": "year",
+        "difficulty": "easy",
+        "points": 100,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 11,
+        "category": "History",
+        "question": "What do the stripes on the American flag represent?",
+        "answers": ["13 colonies", "the 13 colonies", "13 original colonies", "the 13 original colonies", "thirteen colonies", "the thirteen colonies", "thirteen original colonies", "the thirteen original colonies"],
+        "answerType": "text",
+        "difficulty": "easy",
+        "points": 100,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 12,
+        "category": "History",
+        "question": "What state was Martin Luther King, Jr. born in?",
+        "answer": "Georgia",
+        "answerType": "text",
+        "difficulty": "easy",
+        "points": 100,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
     }
 ]
