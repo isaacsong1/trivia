@@ -109,7 +109,7 @@
     },
     {
         "id": 10,
-        "category": "People",
+        "category": "History",
         "question": "Which year was George H.W. Bush elected president?",
         "answers": ["1988"],
         "answerType": "year",
@@ -133,7 +133,7 @@
     },
     {
         "id": 12,
-        "category": "People",
+        "category": "History",
         "question": "What state was Martin Luther King, Jr. born in?",
         "answers": ["georgia"],
         "answerType": "text",
@@ -217,7 +217,7 @@
     },
     {
         "id": 19,
-        "category": "People",
+        "category": "History",
         "question": "How old was Queen Elizabeth II when she was crowned the Queen of England?",
         "answers": ["27"],
         "answerType": "age",
@@ -265,7 +265,7 @@
     },
     {
         "id": 23,
-        "category": "People",
+        "category": "History",
         "question": "Who was the first ruler of the Mongol Empire?",
         "answers": ["genghis khan"],
         "answerType": "name",
@@ -289,7 +289,7 @@
     },
     {
         "id": 25,
-        "category": "People",
+        "category": "History",
         "question": "Who was the first person in the world to land on the moon?",
         "answers": ["neil armstrong"],
         "answerType": "name",
@@ -418,5 +418,66 @@
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
-    }
+    },
+    {
+        "id": 36,
+        "category": "History",
+        "question": "Which fabric was invented in Ancient China?",
+        "answers": ["silk"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 500,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 37,
+        "category": "Tech",
+        "question": "What year was the first iPhone released?",
+        "answers": ["2007"],
+        "answerType": "year",
+        "difficulty": "medium",
+        "points": 500,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 38,
+        "category": "Tech",
+        "question": "What was the acronym commonly used for the 2000 software problem that many thought would cause computers to become inoperable?",
+        "answers": ["y2k"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 500,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 39,
+        "category": "History",
+        "question": "Which country hosted the 2016 Olympics?",
+        "answers": ["brazil"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 500,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 40,
+        "category": "History",
+        "question": "The U.S. rover Curiosity landed on which planet in August 2012?",
+        "answers": ["mars"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 500,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    
 ]
