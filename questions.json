@@ -479,5 +479,65 @@
         "correctAttempts": 0,
         "hints": []
     },
+    {
+        "id": 41,
+        "category": "History",
+        "question": "What was the name of the Category 5 hurricane that hit New Orleans and its surrounding areas in 2005?",
+        "answers": ["hurricane katrina", "katrina"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 500,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 42,
+        "category": "History",
+        "question": "What year did the Berlin Wall fall?",
+        "answers": ["1989"],
+        "answerType": "year",
+        "difficulty": "medium",
+        "points": 500,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 43,
+        "category": "Tech",
+        "question": "What year was Facebook created?",
+        "answers": ["2004"],
+        "answerType": "year",
+        "difficulty": "medium",
+        "points": 500,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 44,
+        "category": "Tech",
+        "question": "The U.S. hosted the FIFA World Cup in 1994. Which country won the game?",
+        "answers": ["brazil"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 500,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 45,
+        "category": "History",
+        "question": "Which planet was downgraded to a dwarf planet in 2006?",
+        "answers": ["pluto"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 500,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
     
 ]
