@@ -366,7 +366,7 @@
         "answers": ["augustus", "octavian"],
         "answerType": "text",
         "difficulty": "medium",
-        "points": 500,
+        "points": 400,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -390,7 +390,7 @@
         "answers": ["athena", "athena parthenos", "athena the virgin"],
         "answerType": "text",
         "difficulty": "medium",
-        "points": 500,
+        "points": 400,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -401,8 +401,8 @@
         "question": "Who is the king of the Olympian gods in Greek mythology?",
         "answers": ["zeus"],
         "answerType": "text",
-        "difficulty": "medium",
-        "points": 500,
+        "difficulty": "easy",
+        "points": 300,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -414,7 +414,7 @@
         "answers": ["socrates"],
         "answerType": "text",
         "difficulty": "medium",
-        "points": 500,
+        "points": 600,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -426,7 +426,7 @@
         "answers": ["silk"],
         "answerType": "text",
         "difficulty": "medium",
-        "points": 500,
+        "points": 400,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -437,8 +437,8 @@
         "question": "What year was the first iPhone released?",
         "answers": ["2007"],
         "answerType": "year",
-        "difficulty": "medium",
-        "points": 500,
+        "difficulty": "easy",
+        "points": 300,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -461,8 +461,8 @@
         "question": "Which country hosted the 2016 Olympics?",
         "answers": ["brazil"],
         "answerType": "text",
-        "difficulty": "medium",
-        "points": 500,
+        "difficulty": "easy",
+        "points": 200,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -474,7 +474,7 @@
         "answers": ["mars"],
         "answerType": "text",
         "difficulty": "medium",
-        "points": 500,
+        "points": 400,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -486,7 +486,7 @@
         "answers": ["hurricane katrina", "katrina"],
         "answerType": "text",
         "difficulty": "medium",
-        "points": 500,
+        "points": 400,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -498,7 +498,7 @@
         "answers": ["1989"],
         "answerType": "year",
         "difficulty": "medium",
-        "points": 500,
+        "points": 400,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -509,8 +509,8 @@
         "question": "What year was Facebook created?",
         "answers": ["2004"],
         "answerType": "year",
-        "difficulty": "medium",
-        "points": 500,
+        "difficulty": "easy",
+        "points": 300,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -522,7 +522,7 @@
         "answers": ["brazil"],
         "answerType": "text",
         "difficulty": "medium",
-        "points": 500,
+        "points": 400,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -533,8 +533,8 @@
         "question": "Which planet was downgraded to a dwarf planet in 2006?",
         "answers": ["pluto"],
         "answerType": "text",
-        "difficulty": "medium",
-        "points": 500,
+        "difficulty": "easy",
+        "points": 100,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -545,8 +545,8 @@
         "question": "What year did Google launch?",
         "answers": ["1998"],
         "answerType": "year",
-        "difficulty": "medium",
-        "points": 500,
+        "difficulty": "easy",
+        "points": 300,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -557,8 +557,8 @@
         "question": "Who won the 2008 U.S. Presidential election?",
         "answers": ["barack obama", "obama"],
         "answerType": "name",
-        "difficulty": "medium",
-        "points": 500,
+        "difficulty": "easy",
+        "points": 300,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -570,7 +570,7 @@
         "answers": ["brexit"],
         "answerType": "text",
         "difficulty": "medium",
-        "points": 500,
+        "points": 400,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -582,7 +582,7 @@
         "answers": ["simone biles"],
         "answerType": "name",
         "difficulty": "medium",
-        "points": 500,
+        "points": 600,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -606,7 +606,7 @@
         "answers": ["great recession", "the great recession"],
         "answerType": "text",
         "difficulty": "medium",
-        "points": 500,
+        "points": 400,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -617,8 +617,8 @@
         "question": "Which U.S. city hosted the Summer Olympics in 1996?",
         "answers": ["atlanta"],
         "answerType": "text",
-        "difficulty": "medium",
-        "points": 500,
+        "difficulty": "easy",
+        "points": 300,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
