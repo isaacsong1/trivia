@@ -358,5 +358,65 @@
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
+    },
+    {
+        "id": 31,
+        "category": "History",
+        "question": "Who was the first Emperor of Rome?",
+        "answers": ["augustus", "octavian"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 500,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 32,
+        "category": "History",
+        "question": "What is the world's oldest recorded civilization?",
+        "answers": ["mesopotamia"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 500,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 33,
+        "category": "History",
+        "question": "Which Greek goddess was the Parthenon dedicated to?",
+        "answers": ["athena", "athena parthenos", "athena the virgin"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 500,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 34,
+        "category": "History",
+        "question": "Who is the king of the Olympian gods in Greek mythology?",
+        "answers": ["zeus"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 500,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 35,
+        "category": "History",
+        "question": "Which ancient figure is often considered the founder of Western philosophy?",
+        "answers": ["socrates"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 500,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
     }
 ]
