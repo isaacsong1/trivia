@@ -598,5 +598,41 @@
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
+    },
+    {
+        "id": 51,
+        "category": "History",
+        "question": "What was the global recession that lasted from 2007 to 2009 called?",
+        "answers": ["great recession", "the great recession"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 500,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 52,
+        "category": "History",
+        "question": "Which U.S. city hosted the Summer Olympics in 1996?",
+        "answers": ["atlanta"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 500,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 53,
+        "category": "History",
+        "question": "What is the name of the whistleblower who leaked classified information from the National Security Agency (NSA) in 2013?",
+        "answers": ["edward snowden"],
+        "answerType": "name",
+        "difficulty": "medium",
+        "points": 500,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
     }
 ]
