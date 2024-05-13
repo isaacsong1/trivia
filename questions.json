@@ -539,5 +539,64 @@
         "correctAttempts": 0,
         "hints": []
     },
-    
+    {
+        "id": 46,
+        "category": "Tech",
+        "question": "What year did Google launch?",
+        "answers": ["1998"],
+        "answerType": "year",
+        "difficulty": "medium",
+        "points": 500,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 47,
+        "category": "Tech",
+        "question": "Who won the 2008 U.S. Presidential election?",
+        "answers": ["barack obama", "obama"],
+        "answerType": "name",
+        "difficulty": "medium",
+        "points": 500,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 48,
+        "category": "History",
+        "question": "What was the withdrawal of the United Kingdom from the European Union?",
+        "answers": ["brexit"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 500,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 49,
+        "category": "History",
+        "question": "Who became the most decorated gymnast in history during the 2010s?",
+        "answers": ["simone biles"],
+        "answerType": "name",
+        "difficulty": "medium",
+        "points": 500,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 50,
+        "category": "Tech",
+        "question": "What year did the Internet become available to the public?",
+        "answers": ["1993"],
+        "answerType": "year",
+        "difficulty": "medium",
+        "points": 500,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    }
 ]
