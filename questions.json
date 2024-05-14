@@ -755,5 +755,65 @@
         "correctAttempts": 0,
         "hints": []
     },
+    {
+        "id": 64,
+        "category": "Cinema",
+        "question": "For what movie did Steven Spielberg win his first Oscar for Best Director?",
+        "answers": ["schindlers list", "schindler's list"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 500,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 65,
+        "category": "Cinema",
+        "question": "What Hollywood movie star plays himself in Zombieland?",
+        "answers": ["bill murray"],
+        "answerType": "name",
+        "difficulty": "medium",
+        "points": 500,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 66,
+        "category": "Cinema",
+        "question": "Who is the only actor to receive an Oscar nomination for acting in a Lord of the Rings movie?",
+        "answers": ["ian mckellen"],
+        "answerType": "name",
+        "difficulty": "medium",
+        "points": 500,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 67,
+        "category": "Cinema",
+        "question": "Who took over the role of Bruce Wayne's love interest Rachel Dawes in The Dark Knight, following Katie Holmes's exit after Batman Begins?",
+        "answers": ["maggie gyllenhaal"],
+        "answerType": "name",
+        "difficulty": "medium",
+        "points": 500,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 68,
+        "category": "Cinema",
+        "question": "What song plays over the opening credits of Guardians of the Galaxy?",
+        "answers": ["come and get your love"],
+        "answerType": "name",
+        "difficulty": "medium",
+        "points": 500,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
 
 ]
