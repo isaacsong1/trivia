@@ -517,7 +517,7 @@
     },
     {
         "id": 44,
-        "category": "Tech",
+        "category": "History",
         "question": "The U.S. hosted the FIFA World Cup in 1994. Which country won the game?",
         "answers": ["brazil"],
         "answerType": "text",
@@ -553,7 +553,7 @@
     },
     {
         "id": 47,
-        "category": "Tech",
+        "category": "History",
         "question": "Who won the 2008 U.S. Presidential election?",
         "answers": ["barack obama", "obama"],
         "answerType": "name",
@@ -634,5 +634,66 @@
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
-    }
+    },
+    {
+        "id": 54,
+        "category": "Cinema",
+        "question": "Who played Mrs. Robinson in The Graduate?",
+        "answers": ["anne bancroft"],
+        "answerType": "name",
+        "difficulty": "medium",
+        "points": 500,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 55,
+        "category": "Cinema",
+        "question": "What was Disney's first feature-length animated movie ever released?",
+        "answers": ["snow white and the seven dwarfs", "snow white"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 500,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 56,
+        "category": "Cinema",
+        "question": "In The Matrix, does Neo take the blue pill or the red pill?",
+        "answers": ["red", "red pill"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 500,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 57,
+        "category": "Cinema",
+        "question": "For what movie did Tom Hanks score his first Academy Award nomination?",
+        "answers": ["big"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 500,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 58,
+        "category": "Cinema",
+        "question": "What flavor of Pop-Tarts does Buddy the Elf use in his spaghetti in Elf? ",
+        "answers": ["chocolate"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 500,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+
 ]
