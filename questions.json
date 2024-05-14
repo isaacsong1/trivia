@@ -161,7 +161,7 @@
         "question": "In what year did child labor laws start in the United States?",
         "answers": ["1938"],
         "answerType": "year",
-        "difficulty": "easy",
+        "difficulty": "medium",
         "points": 500,
         "attempts": 0,
         "correctAttempts": 0,
@@ -642,7 +642,7 @@
         "answers": ["anne bancroft"],
         "answerType": "name",
         "difficulty": "medium",
-        "points": 500,
+        "points": 400,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -653,8 +653,8 @@
         "question": "What was Disney's first feature-length animated movie ever released?",
         "answers": ["snow white and the seven dwarfs", "snow white"],
         "answerType": "text",
-        "difficulty": "medium",
-        "points": 500,
+        "difficulty": "easy",
+        "points": 300,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -665,8 +665,8 @@
         "question": "In The Matrix, does Neo take the blue pill or the red pill?",
         "answers": ["red", "red pill"],
         "answerType": "text",
-        "difficulty": "medium",
-        "points": 500,
+        "difficulty": "easy",
+        "points": 200,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -689,8 +689,8 @@
         "question": "What flavor of Pop-Tarts does Buddy the Elf use in his spaghetti in Elf?",
         "answers": ["chocolate"],
         "answerType": "text",
-        "difficulty": "medium",
-        "points": 500,
+        "difficulty": "easy",
+        "points": 200,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -702,7 +702,7 @@
         "answers": ["clint eastwood"],
         "answerType": "name",
         "difficulty": "medium",
-        "points": 500,
+        "points": 600,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -725,8 +725,8 @@
         "question": "The head of what animal is front-and-center in an infamous scene from The Godfather?",
         "answers": ["horse"],
         "answerType": "text",
-        "difficulty": "medium",
-        "points": 500,
+        "difficulty": "easy",
+        "points": 300,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -737,8 +737,8 @@
         "question": "Who played park owner John Hammond in Jurassic Park?",
         "answers": ["richard attenborough"],
         "answerType": "name",
-        "difficulty": "medium",
-        "points": 500,
+        "difficulty": "easy",
+        "points": 300,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -749,8 +749,8 @@
         "question": "In what 1976 thriller does Robert De Niro famously say 'You talkin' to me?'",
         "answers": ["taxi driver"],
         "answerType": "text",
-        "difficulty": "medium",
-        "points": 500,
+        "difficulty": "easy",
+        "points": 200,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -762,7 +762,7 @@
         "answers": ["schindlers list", "schindler's list"],
         "answerType": "text",
         "difficulty": "medium",
-        "points": 500,
+        "points": 400,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -773,8 +773,8 @@
         "question": "What Hollywood movie star plays himself in Zombieland?",
         "answers": ["bill murray"],
         "answerType": "name",
-        "difficulty": "medium",
-        "points": 500,
+        "difficulty": "easy",
+        "points": 200,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -798,7 +798,7 @@
         "answers": ["maggie gyllenhaal"],
         "answerType": "name",
         "difficulty": "medium",
-        "points": 500,
+        "points": 400,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -810,10 +810,10 @@
         "answers": ["come and get your love"],
         "answerType": "name",
         "difficulty": "medium",
-        "points": 500,
+        "points": 400,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
-    },
+    }
 
 ]
