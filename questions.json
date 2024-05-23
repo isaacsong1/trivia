@@ -814,6 +814,66 @@
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
+    },
+    {
+        "id": 69,
+        "category": "Cinema",
+        "question": "What is the highest-grossing R-rated movie of all time",
+        "answers": ["Joker"],
+        "answerType": "name",
+        "difficulty": "medium",
+        "points": 400,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 70,
+        "category": "Cinema",
+        "question": "What 1994 crime film revitalized John Travolta's career?",
+        "answers": ["Pulp Fiction"],
+        "answerType": "name",
+        "difficulty": "medium",
+        "points": 400,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 71,
+        "category": "Cinema",
+        "question": "Which movie was incorrectly announced as the winner of Best Picture at the 2017 Academy Awards, during one of the greatest Oscars flubs of all time?",
+        "answers": ["La La Land"],
+        "answerType": "name",
+        "difficulty": "medium",
+        "points": 400,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 72,
+        "category": "Cinema",
+        "question": "Which 1948 Alfred Hitchcock movie starred James Stewart and was shot to look like one continuous take?",
+        "answers": ["Rope"],
+        "answerType": "name",
+        "difficulty": "medium",
+        "points": 400,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 73,
+        "category": "Cinema",
+        "question": "'Well, nobody's perfect' is the final line (and punchline) from what classic 1959 comedy starring Marilyn Monroe?",
+        "answers": ["Some Like It Hot"],
+        "answerType": "name",
+        "difficulty": "medium",
+        "points": 400,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
     }
 
 ]
