@@ -822,7 +822,7 @@
         "answers": ["Joker"],
         "answerType": "text",
         "difficulty": "medium",
-        "points": 400,
+        "points": 700,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -834,7 +834,7 @@
         "answers": ["Pulp Fiction"],
         "answerType": "text",
         "difficulty": "medium",
-        "points": 400,
+        "points": 500,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -842,7 +842,7 @@
     {
         "id": 71,
         "category": "Cinema",
-        "question": "Which movie was incorrectly announced as the winner of Best Picture at the 2017 Academy Awards, during one of the greatest Oscars flubs of all time?",
+        "question": "Which movie was incorrectly announced as the winner of Best Picture at the 2017 Academy Awards?",
         "answers": ["La La Land"],
         "answerType": "text",
         "difficulty": "medium",
@@ -858,7 +858,7 @@
         "answers": ["Rope"],
         "answerType": "text",
         "difficulty": "medium",
-        "points": 400,
+        "points": 600,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -869,8 +869,8 @@
         "question": "'Well, nobody's perfect' is the final line (and punchline) from what classic 1959 comedy starring Marilyn Monroe?",
         "answers": ["Some Like It Hot"],
         "answerType": "text",
-        "difficulty": "medium",
-        "points": 400,
+        "difficulty": "easy",
+        "points": 300,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -894,7 +894,7 @@
         "answers": ["John Carpenter"],
         "answerType": "name",
         "difficulty": "medium",
-        "points": 400,
+        "points": 600,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -917,8 +917,8 @@
         "question": "In Apocalypse Now, Robert Duvall says, 'I love the smell of _____ in the morning.'",
         "answers": ["Napalm"],
         "answerType": "text",
-        "difficulty": "medium",
-        "points": 400,
+        "difficulty": "easy",
+        "points": 300,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -930,7 +930,7 @@
         "answers": ["The Orca", "Orca"],
         "answerType": "text",
         "difficulty": "medium",
-        "points": 400,
+        "points": 500,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -939,10 +939,10 @@
         "id": 79,
         "category": "Cinema",
         "question": "What is the name of Charlie Chaplin's most famous, recurring character?",
-        "answers": ["The Little Tramp", "The Tramp", "Little Tramp", "Tramp"],
+        "answers": ["The Tramp", "The Little Tramp", "Little Tramp", "Tramp"],
         "answerType": "text",
-        "difficulty": "medium",
-        "points": 400,
+        "difficulty": "easy",
+        "points": 200,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -965,8 +965,8 @@
         "question": "Which 1927 war drama was the first movie to ever win Best Picture?",
         "answers": ["Wings"],
         "answerType": "text",
-        "difficulty": "medium",
-        "points": 400,
+        "difficulty": "hard",
+        "points": 800,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -978,7 +978,7 @@
         "answers": ["Gladiator"],
         "answerType": "text",
         "difficulty": "medium",
-        "points": 400,
+        "points": 600,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -989,8 +989,8 @@
         "question": "Jennifer Lawrence won a Best Actress Academy Award for what 2012 romantic comedy/drama?",
         "answers": ["Silver Linings Playbook"],
         "answerType": "text",
-        "difficulty": "medium",
-        "points": 400,
+        "difficulty": "easy",
+        "points": 300,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -1002,7 +1002,7 @@
         "answers": ["300"],
         "answerType": "text",
         "difficulty": "medium",
-        "points": 400,
+        "points": 500,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -1025,8 +1025,8 @@
         "question": "Which Alfred Hitchcock thriller is notorious for its shocking 'shower scene?'",
         "answers": ["Psycho"],
         "answerType": "text",
-        "difficulty": "medium",
-        "points": 400,
+        "difficulty": "easy",
+        "points": 200,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -1038,7 +1038,7 @@
         "answers": ["Sylvester Stallone"],
         "answerType": "name",
         "difficulty": "medium",
-        "points": 400,
+        "points": 500,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -1050,7 +1050,7 @@
         "answers": ["Reservoir Dogs"],
         "answerType": "text",
         "difficulty": "medium",
-        "points": 400,
+        "points": 600,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
