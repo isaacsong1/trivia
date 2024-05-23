@@ -934,6 +934,66 @@
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
+    },
+    {
+        "id": 79,
+        "category": "Cinema",
+        "question": "What is the name of Charlie Chaplin's most famous, recurring character?",
+        "answers": ["The Little Tramp", "The Tramp", "Little Tramp", "Tramp"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 400,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 80,
+        "category": "Cinema",
+        "question": "Aaron Sorkin won an Oscar for writing what 2010 drama about the creation of Facebook?",
+        "answers": ["The Social Network"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 400,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 81,
+        "category": "Cinema",
+        "question": "Which 1927 war drama was the first movie to ever win Best Picture?",
+        "answers": ["Wings"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 400,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 82,
+        "category": "Cinema",
+        "question": "Joaquin Phoenix received his first Oscar nomination for playing Roman emperor Commodus in what 2000 Oscar-winning epic?",
+        "answers": ["Gladiator"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 400,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 83,
+        "category": "Cinema",
+        "question": "Jennifer Lawrence won a Best Actress Academy Award for what 2012 romantic comedy/drama?",
+        "answers": ["Silver Linings Playbook"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 400,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
     }
 
 ]
