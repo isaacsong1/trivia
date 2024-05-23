@@ -994,6 +994,66 @@
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
+    },
+    {
+        "id": 84,
+        "category": "Cinema",
+        "question": "The Battle of Thermopylae served as the basis of what highly stylized 2006 smash hit swords-and-sandals action flick?",
+        "answers": ["300"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 400,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 85,
+        "category": "Cinema",
+        "question": "Which famous film composer wrote the music for Tim Burton's 1989 Batman?",
+        "answers": ["Danny Elfman"],
+        "answerType": "name",
+        "difficulty": "medium",
+        "points": 400,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 86,
+        "category": "Cinema",
+        "question": "Which Alfred Hitchcock thriller is notorious for its shocking 'shower scene?'",
+        "answers": ["Psycho"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 400,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 87,
+        "category": "Cinema",
+        "question": "Who wrote the screenplay for Rocky?",
+        "answers": ["Sylvester Stallone"],
+        "answerType": "name",
+        "difficulty": "medium",
+        "points": 400,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 88,
+        "category": "Cinema",
+        "question": "What was Quentin Tarantino's first feature as writer/director?",
+        "answers": ["Reservoir Dogs"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 400,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
     }
 
 ]
