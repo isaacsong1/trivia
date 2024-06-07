@@ -1318,6 +1318,66 @@
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
+    },
+    {
+        "id": 111,
+        "category": "Cinema",
+        "question": "What Martin Scorsese movie holds the record for F-bombs?",
+        "answers": ["The Wolf of Wall Street"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 600,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 112,
+        "category": "Cinema",
+        "question": "What is the name of Riley's imaginary friend in Inside Out?",
+        "answers": ["Bing Bong"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 600,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 113,
+        "category": "Cinema",
+        "question": "Who played the Green Goblin in 2002 box-office smash Spider-Man?",
+        "answers": ["Willem Dafoe"],
+        "answerType": "name",
+        "difficulty": "medium",
+        "points": 600,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 114,
+        "category": "Cinema",
+        "question": "Who played Regan MacNeil in The Exorcist?",
+        "answers": ["Linda Blair"],
+        "answerType": "name",
+        "difficulty": "medium",
+        "points": 600,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 115,
+        "category": "Cinema",
+        "question": "Only three movies in history have won the 'big five' at the Oscars (Best Picture, Best Director, Best Screenplay, Best Actor and Best Actress). Name them",
+        "answers": ["It Happened One Night", "One Flew Over the Cuckoo's Nest", "The Silence of the Lambs"],
+        "answerType": "multiple",
+        "difficulty": "medium",
+        "points": 600,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
     }
 
 ]
