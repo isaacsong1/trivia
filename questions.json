@@ -1198,6 +1198,66 @@
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
+    },
+    {
+        "id": 101,
+        "category": "Cinema",
+        "question": "What is the highest-grossing movie of all time when not taking inflation into account?",
+        "answers": ["Avatar"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 600,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 102,
+        "category": "Cinema",
+        "question": "What's the Los Angeles hotel prominently featured in Pretty Woman?",
+        "answers": ["The Beverly Wilshire by Four Seasons"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 600,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 103,
+        "category": "Cinema",
+        "question": "Who played detective Rick Deckard in Blade Runner?",
+        "answers": ["Harrison Ford"],
+        "answerType": "name",
+        "difficulty": "medium",
+        "points": 600,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 104,
+        "category": "Cinema",
+        "question": "What is the name of the spaceship in Alien?",
+        "answers": ["USCSS Nostromo"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 600,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 105,
+        "category": "Cinema",
+        "question": "This acclaimed, Oscar-winning filmmaker directed Happy Feet, Babe: Pig in the City and Mad Max: Fury Road.",
+        "answers": ["George Miller"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 600,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
     }
 
 ]
