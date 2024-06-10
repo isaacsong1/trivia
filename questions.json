@@ -1378,6 +1378,66 @@
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
+    },
+    {
+        "id": 116,
+        "category": "Cinema",
+        "question": "What is the first foreign-language movie to win the Oscar for Best Picture?",
+        "answers": ["Parasite"],
+        "answerType": "text",
+        "difficulty": "hard",
+        "points": 900,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 117,
+        "category": "Cinema",
+        "question": "Ke Huy Quan made his first appearance in what 1984 movie?",
+        "answers": ["Indiana Jones and the Temple of Doom"],
+        "answerType": "text",
+        "difficulty": "hard",
+        "points": 900,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 118,
+        "category": "Cinema",
+        "question": "What is the first rule of Fight Club",
+        "answers": ["You do not talk about Fight Club"],
+        "answerType": "text",
+        "difficulty": "easy",
+        "points": 100,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 119,
+        "category": "Sports",
+        "question": "Who is the all-time leading scorer in the history of the English Premier League?",
+        "answers": ["Alan Shearer"],
+        "answerType": "text",
+        "difficulty": "hard",
+        "points": 900,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 120,
+        "category": "Sports",
+        "question": "Who is the only athlete to win Olympic gold medals in both the 100m and 400m?",
+        "answers": ["Michael Johnson"],
+        "answerType": "multiple",
+        "difficulty": "hard",
+        "points": 900,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
     }
 
 ]
