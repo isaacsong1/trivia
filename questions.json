@@ -1506,7 +1506,7 @@
         "answers": ["LeBron James"],
         "answerType": "name",
         "difficulty": "medium",
-        "points": 500,
+        "points": 700,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -1518,7 +1518,7 @@
         "answers": ["Daniil Medvedev"],
         "answerType": "name",
         "difficulty": "medium",
-        "points": 500,
+        "points": 400,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -1529,8 +1529,8 @@
         "question": "Which team won the NBA Championship in 2021?",
         "answers": ["Milwaukee Bucks"],
         "answerType": "text",
-        "difficulty": "medium",
-        "points": 500,
+        "difficulty": "easy",
+        "points": 200,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -1541,8 +1541,8 @@
         "question": "Which team won the NBA Championship in 2020?",
         "answers": ["Los Angeles Lakers"],
         "answerType": "text",
-        "difficulty": "medium",
-        "points": 500,
+        "difficulty": "easy",
+        "points": 200,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -1553,8 +1553,8 @@
         "question": "Which team won the NBA Championship in 2022?",
         "answers": ["Golden State Warriors"],
         "answerType": "text",
-        "difficulty": "medium",
-        "points": 500,
+        "difficulty": "easy",
+        "points": 200,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -1565,8 +1565,8 @@
         "question": "In which city were the 2016 Summer Olympics held?",
         "answers": ["Rio de Janeiro, Brazil"],
         "answerType": "text",
-        "difficulty": "medium",
-        "points": 500,
+        "difficulty": "easy",
+        "points": 200,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -1577,8 +1577,8 @@
         "question": "Which team won the MLB World Series in 2021?",
         "answers": ["Atlanta Braves"],
         "answerType": "text",
-        "difficulty": "medium",
-        "points": 500,
+        "difficulty": "easy",
+        "points": 300,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -1589,8 +1589,8 @@
         "question": "Who won the FIFA World Cup in 2018?",
         "answers": ["France"],
         "answerType": "text",
-        "difficulty": "medium",
-        "points": 500,
+        "difficulty": "easy",
+        "points": 300,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -1602,7 +1602,7 @@
         "answers": ["Cristiano Ronaldo"],
         "answerType": "name",
         "difficulty": "medium",
-        "points": 500,
+        "points": 700,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -1613,8 +1613,8 @@
         "question": "Who won the Super Bowl in 2021?",
         "answers": ["Tampa Bay Buccaneers"],
         "answerType": "text",
-        "difficulty": "medium",
-        "points": 500,
+        "difficulty": "easy",
+        "points": 200,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
