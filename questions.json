@@ -1498,6 +1498,66 @@
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
+    },
+    {
+        "id": 126,
+        "category": "Sports",
+        "question": "Who is the all-time leading scorer in the history of the NBA?",
+        "answers": ["LeBron James"],
+        "answerType": "name",
+        "difficulty": "medium",
+        "points": 500,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 127,
+        "category": "Sports",
+        "question": "Who won the Men's Singles title at the US Open in 2021?",
+        "answers": ["Daniil Medvedev"],
+        "answerType": "name",
+        "difficulty": "medium",
+        "points": 500,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 128,
+        "category": "Sports",
+        "question": "Which team won the NBA Championship in 2021?",
+        "answers": ["Milwaukee Bucks"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 500,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 129,
+        "category": "Sports",
+        "question": "Which team won the NBA Championship in 2020?",
+        "answers": ["Los Angeles Lakers"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 500,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 130,
+        "category": "Sports",
+        "question": "Which team won the NBA Championship in 2022?",
+        "answers": ["Golden State Warriors"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 500,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
     }
 
 ]
