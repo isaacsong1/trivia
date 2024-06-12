@@ -1558,6 +1558,66 @@
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
+    },
+    {
+        "id": 131,
+        "category": "Sports",
+        "question": "In which city were the 2016 Summer Olympics held?",
+        "answers": ["Rio de Janeiro, Brazil"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 500,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 132,
+        "category": "Sports",
+        "question": "Which team won the MLB World Series in 2021?",
+        "answers": ["Atlanta Braves"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 500,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 133,
+        "category": "Sports",
+        "question": "Who won the FIFA World Cup in 2018?",
+        "answers": ["France"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 500,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 134,
+        "category": "Sports",
+        "question": "Who is the all-time leading scorer in the history of the UEFA Champions League?",
+        "answers": ["Cristiano Ronaldo"],
+        "answerType": "name",
+        "difficulty": "medium",
+        "points": 500,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 135,
+        "category": "Sports",
+        "question": "Who won the Super Bowl in 2021?",
+        "answers": ["Tampa Bay Buccaneers"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 500,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
     }
 
 ]
