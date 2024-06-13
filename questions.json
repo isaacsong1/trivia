@@ -1798,5 +1798,66 @@
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
+    },
+    {
+        "id": 151,
+        "category": "Sports",
+        "question": "What color are the goalposts in football?",
+        "answers": ["Yellow"],
+        "answerType": "text",
+        "difficulty": "easy",
+        "points": 200,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 152,
+        "category": "Sports",
+        "question": "How long is a marathon? (miles)",
+        "answers": ["26.2 miles"],
+        "answerType": "text",
+        "difficulty": "easy",
+        "points": 200,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 153,
+        "category": "Sports",
+        "question": "In what game is 'love' a score?",
+        "answers": ["Tennis"],
+        "answerType": "text",
+        "difficulty": "easy",
+        "points": 200,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 154,
+        "category": "Sports",
+        "question": "In meters, how big is an Olympic-sized swimming pool?",
+        "answers": ["50 meters long, 25 meters wide"],
+        "answerType": "text",
+        "difficulty": "easy",
+        "points": 200,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 155,
+        "category": "Sports",
+        "question": "In football, how many points does a touchdown hold?",
+        "answers": ["6"],
+        "answerType": "int",
+        "difficulty": "easy",
+        "points": 200,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
     }
+
 ]
