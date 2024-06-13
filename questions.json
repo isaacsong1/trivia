@@ -1626,7 +1626,7 @@
         "answers": ["18 inches"],
         "answerType": "text",
         "difficulty": "easy",
-        "points": 200,
+        "points": 300,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -1638,7 +1638,7 @@
         "answers": ["4 years"],
         "answerType": "text",
         "difficulty": "easy",
-        "points": 200,
+        "points": 100,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -1673,8 +1673,8 @@
         "question": "What are the two national sports of Canada?",
         "answers": ["Ice Hockey", "Lacrosse"],
         "answerType": "multiple",
-        "difficulty": "easy",
-        "points": 200,
+        "difficulty": "medium",
+        "points": 400,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -1686,7 +1686,7 @@
         "answers": ["336"],
         "answerType": "text",
         "difficulty": "easy",
-        "points": 200,
+        "points": 300,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -1697,8 +1697,8 @@
         "question": "The Triple Crown award is given to a horse that wins which three races?",
         "answers": ["Kentucky Derby", "Preakness Stakes", "Belmont Stakes"],
         "answerType": "multiple",
-        "difficulty": "easy",
-        "points": 200,
+        "difficulty": "hard",
+        "points": 800,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -1709,8 +1709,8 @@
         "question": "In the 1971 Olympics, Nadia Comaneci was the first gymnast to score a perfect score. What country was she representing?",
         "answers": ["Romania"],
         "answerType": "text",
-        "difficulty": "easy",
-        "points": 200,
+        "difficulty": "medium",
+        "points": 500,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -1734,7 +1734,7 @@
         "answers": ["Los Angeles"],
         "answerType": "text",
         "difficulty": "easy",
-        "points": 200,
+        "points": 300,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -1742,11 +1742,11 @@
     {
         "id": 146,
         "category": "Sports",
-        "question": "Which boxer fought against Muhammad Ali and won?",
-        "answers": [""],
-        "answerType": "text",
+        "question": "How many players are on a baseball team?",
+        "answers": ["9"],
+        "answerType": "int",
         "difficulty": "easy",
-        "points": 200,
+        "points": 100,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -1755,10 +1755,10 @@
         "id": 147,
         "category": "Sports",
         "question": "Which golf tournament did Tiger Woods win by 12 strokes cementing his first-ever major championship win?",
-        "answers": ["1997 Masters"],
+        "answers": ["1997 Masters Tournament"],
         "answerType": "text",
-        "difficulty": "easy",
-        "points": 200,
+        "difficulty": "medium",
+        "points": 500,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -1769,8 +1769,8 @@
         "question": "How many medals did China win at the Beijing Olympics?",
         "answers": ["100"],
         "answerType": "int",
-        "difficulty": "easy",
-        "points": 200,
+        "difficulty": "medium",
+        "points": 700,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -1782,7 +1782,7 @@
         "answers": ["National Basketball Association"],
         "answerType": "text",
         "difficulty": "easy",
-        "points": 200,
+        "points": 100,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -1794,7 +1794,7 @@
         "answers": ["18"],
         "answerType": "int",
         "difficulty": "easy",
-        "points": 200,
+        "points": 100,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -1841,8 +1841,8 @@
         "question": "In meters, how big is an Olympic-sized swimming pool?",
         "answers": ["50 meters long, 25 meters wide"],
         "answerType": "text",
-        "difficulty": "easy",
-        "points": 200,
+        "difficulty": "medium",
+        "points": 500,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -1854,7 +1854,7 @@
         "answers": ["6"],
         "answerType": "int",
         "difficulty": "easy",
-        "points": 200,
+        "points": 100,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
