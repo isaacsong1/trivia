@@ -1618,6 +1618,66 @@
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
+    },
+    {
+        "id": 136,
+        "category": "Sports",
+        "question": "What's the diameter of a basketball hoop in inches?",
+        "answers": ["18 inches"],
+        "answerType": "text",
+        "difficulty": "easy",
+        "points": 200,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 137,
+        "category": "Sports",
+        "question": "The Olympics are held every how many years?",
+        "answers": ["4 years"],
+        "answerType": "text",
+        "difficulty": "easy",
+        "points": 200,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 138,
+        "category": "Sports",
+        "question": "What sport is best known as the 'king of sports'?",
+        "answers": ["Soccer"],
+        "answerType": "text",
+        "difficulty": "easy",
+        "points": 200,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 139,
+        "category": "Sports",
+        "question": "What do you call it when a bowler makes three strikes in a row?",
+        "answers": ["Turkey"],
+        "answerType": "text",
+        "difficulty": "easy",
+        "points": 200,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 140,
+        "category": "Sports",
+        "question": "What are the two national sports of Canada?",
+        "answers": ["Ice Hockey", "Lacrosse"],
+        "answerType": "multiple",
+        "difficulty": "easy",
+        "points": 200,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
     }
 
 ]
