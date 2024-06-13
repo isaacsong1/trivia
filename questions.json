@@ -1738,6 +1738,65 @@
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
+    },
+    {
+        "id": 146,
+        "category": "Sports",
+        "question": "Which boxer fought against Muhammad Ali and won?",
+        "answers": [""],
+        "answerType": "text",
+        "difficulty": "easy",
+        "points": 200,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 147,
+        "category": "Sports",
+        "question": "Which golf tournament did Tiger Woods win by 12 strokes cementing his first-ever major championship win?",
+        "answers": ["1997 Masters"],
+        "answerType": "text",
+        "difficulty": "easy",
+        "points": 200,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 148,
+        "category": "Sports",
+        "question": "How many medals did China win at the Beijing Olympics?",
+        "answers": ["100"],
+        "answerType": "int",
+        "difficulty": "easy",
+        "points": 200,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 149,
+        "category": "Sports",
+        "question": "What does NBA stand for?",
+        "answers": ["National Basketball Association"],
+        "answerType": "text",
+        "difficulty": "easy",
+        "points": 200,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 150,
+        "category": "Sports",
+        "question": "How many holes are played in an average round of golf?",
+        "answers": ["18"],
+        "answerType": "int",
+        "difficulty": "easy",
+        "points": 200,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
     }
-
 ]
