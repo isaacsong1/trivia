@@ -1678,6 +1678,66 @@
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
+    },
+    {
+        "id": 141,
+        "category": "Sports",
+        "question": "How many dimples does an average golf ball have?",
+        "answers": ["336"],
+        "answerType": "text",
+        "difficulty": "easy",
+        "points": 200,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 142,
+        "category": "Sports",
+        "question": "The Triple Crown award is given to a horse that wins which three races?",
+        "answers": ["Kentucky Derby", "Preakness Stakes", "Belmont Stakes"],
+        "answerType": "multiple",
+        "difficulty": "easy",
+        "points": 200,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 143,
+        "category": "Sports",
+        "question": "In the 1971 Olympics, Nadia Comaneci was the first gymnast to score a perfect score. What country was she representing?",
+        "answers": ["Romania"],
+        "answerType": "text",
+        "difficulty": "easy",
+        "points": 200,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 144,
+        "category": "Sports",
+        "question": "Who has won more tennis grand slam titles, Venus Williams or Serena Williams?",
+        "answers": ["Serena Williams"],
+        "answerType": "name",
+        "difficulty": "easy",
+        "points": 200,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 145,
+        "category": "Sports",
+        "question": "Where will the 2028 Summer Olympics be held? (city)",
+        "answers": ["Los Angeles"],
+        "answerType": "text",
+        "difficulty": "easy",
+        "points": 200,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
     }
 
 ]
