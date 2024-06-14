@@ -2,7 +2,7 @@ import React from 'react'
 
 const Topbar = () => {
     return (
-        <div>Topbar</div>
+        <div>Topbar with button to go to homepage</div>
     )
 }
 
