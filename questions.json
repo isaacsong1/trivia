@@ -1865,8 +1865,8 @@
         "question": "What number sits to the right of the number '20' on a standard dartboard?",
         "answers": ["1"],
         "answerType": "int",
-        "difficulty": "medium",
-        "points": 400,
+        "difficulty": "easy",
+        "points": 100,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -1878,7 +1878,7 @@
         "answers": ["Pip"],
         "answerType": "text",
         "difficulty": "medium",
-        "points": 400,
+        "points": 500,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -1899,10 +1899,10 @@
         "id": 159,
         "category": "Sports",
         "question": "What is the only sport to be played on the moon?",
-        "answers": ["A round of golf"],
+        "answers": ["Golf"],
         "answerType": "text",
         "difficulty": "medium",
-        "points": 400,
+        "points": 700,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -1913,8 +1913,8 @@
         "question": "How old was Tiger Woods when he won the Masters?",
         "answers": ["21"],
         "answerType": "int",
-        "difficulty": "medium",
-        "points": 400,
+        "difficulty": "easy",
+        "points": 300,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
