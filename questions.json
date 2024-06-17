@@ -1858,6 +1858,66 @@
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
+    },
+    {
+        "id": 156,
+        "category": "Sports",
+        "question": "What number sits to the right of the number '20' on a standard dartboard?",
+        "answers": ["1"],
+        "answerType": "int",
+        "difficulty": "medium",
+        "points": 400,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 157,
+        "category": "Sports",
+        "question": "Basketball player, Scottie Pippen, has a word tattooed on his forearm. What does it say?",
+        "answers": ["Pip"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 400,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 158,
+        "category": "Sports",
+        "question": "What sport is Bela Karolyi known for coaching?",
+        "answers": ["Women's gymnastics"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 400,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 159,
+        "category": "Sports",
+        "question": "What is the only sport to be played on the moon?",
+        "answers": ["A round of golf"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 400,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 160,
+        "category": "Sports",
+        "question": "How old was Tiger Woods when he won the Masters?",
+        "answers": ["21"],
+        "answerType": "int",
+        "difficulty": "medium",
+        "points": 400,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
     }
 
 ]
