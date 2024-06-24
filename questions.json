@@ -1925,8 +1925,8 @@
         "question": "How long is the free skate in figure skating for men?",
         "answers": ["4.5 minutes"],
         "answerType": "text",
-        "difficulty": "medium",
-        "points": 400,
+        "difficulty": "easy",
+        "points": 200,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -1937,8 +1937,8 @@
         "question": "How long is the free skate in figure skating for women?",
         "answers": ["4 minutes"],
         "answerType": "text",
-        "difficulty": "medium",
-        "points": 400,
+        "difficulty": "easy",
+        "points": 200,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -1962,7 +1962,7 @@
         "answers": ["29 minutes"],
         "answerType": "text",
         "difficulty": "medium",
-        "points": 400,
+        "points": 500,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -1974,7 +1974,7 @@
         "answers": ["A silver medal", "Olive branch", "A diploma from King George of Greece"],
         "answerType": "multiple",
         "difficulty": "medium",
-        "points": 400,
+        "points": 700,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
