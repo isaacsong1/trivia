@@ -1918,6 +1918,66 @@
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
+    },
+    {
+        "id": 161,
+        "category": "Sports",
+        "question": "How long is the free skate in figure skating for men?",
+        "answers": ["4.5 minutes"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 400,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 162,
+        "category": "Sports",
+        "question": "How long is the free skate in figure skating for women?",
+        "answers": ["4 minutes"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 400,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 163,
+        "category": "Sports",
+        "question": "Who was the first president to throw the ceremonial first pitch at a Major League Baseball game?",
+        "answers": ["William Howard Taft"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 400,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 164,
+        "category": "Sports",
+        "question": "How many minutes was the longest recorded rally in professional tennis?",
+        "answers": ["29 minutes"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 400,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 165,
+        "category": "Sports",
+        "question": "During the first-ever modern Olympics, what were the first placers awarded with?",
+        "answers": ["A silver medal", "Olive branch", "A diploma from King George of Greece"],
+        "answerType": "multiple",
+        "difficulty": "medium",
+        "points": 400,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
     }
 
 ]
