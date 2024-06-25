@@ -1978,6 +1978,66 @@
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
+    },
+    {
+        "id": 166,
+        "category": "Sports",
+        "question": "What NFL team was originally called the 'New York Titans'?",
+        "answers": ["New York Jets"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 400,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 167,
+        "category": "Sports",
+        "question": "How much does an NFL football weigh?",
+        "answers": ["1 pound"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 400,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 168,
+        "category": "Sports",
+        "question": "Which NFL team has their logo located on only one side of their helmets?",
+        "answers": ["Pittsburgh Steelers"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 400,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 169,
+        "category": "Sports",
+        "question": "What team is considered the oldest in the NFL?",
+        "answers": ["Arizona Cardinals"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 400,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 170,
+        "category": "Sports",
+        "question": "Which team has the record of scoring the most points in a single Super Bowl?",
+        "answers": ["San Francisco 49ers"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 400,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
     }
 
 ]
