@@ -1973,8 +1973,8 @@
         "question": "During the first-ever modern Olympics, what were the first placers awarded with?",
         "answers": ["A silver medal", "Olive branch", "A diploma from King George of Greece"],
         "answerType": "multiple",
-        "difficulty": "medium",
-        "points": 700,
+        "difficulty": "hard",
+        "points": 1000,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -1985,8 +1985,8 @@
         "question": "What NFL team was originally called the 'New York Titans'?",
         "answers": ["New York Jets"],
         "answerType": "text",
-        "difficulty": "medium",
-        "points": 400,
+        "difficulty": "easy",
+        "points": 300,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -1997,8 +1997,8 @@
         "question": "How much does an NFL football weigh?",
         "answers": ["1 pound"],
         "answerType": "text",
-        "difficulty": "medium",
-        "points": 400,
+        "difficulty": "easy",
+        "points": 200,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -2022,7 +2022,7 @@
         "answers": ["Arizona Cardinals"],
         "answerType": "text",
         "difficulty": "medium",
-        "points": 400,
+        "points": 500,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -2034,7 +2034,7 @@
         "answers": ["San Francisco 49ers"],
         "answerType": "text",
         "difficulty": "medium",
-        "points": 400,
+        "points": 600,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
