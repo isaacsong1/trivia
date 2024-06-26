@@ -2045,8 +2045,8 @@
         "question": "What wide receiver caused a sensation during his rookie season with a one-handed catch?",
         "answers": ["Odell Beckham Jr."],
         "answerType": "name",
-        "difficulty": "medium",
-        "points": 400,
+        "difficulty": "easy",
+        "points": 100,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -2058,7 +2058,7 @@
         "answers": ["LeBron James"],
         "answerType": "name",
         "difficulty": "medium",
-        "points": 400,
+        "points": 500,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -2070,7 +2070,7 @@
         "answers": ["Brittney Griner"],
         "answerType": "name",
         "difficulty": "medium",
-        "points": 400,
+        "points": 700,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -2082,7 +2082,7 @@
         "answers": ["Chuck Connors"],
         "answerType": "name",
         "difficulty": "medium",
-        "points": 400,
+        "points": 600,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
