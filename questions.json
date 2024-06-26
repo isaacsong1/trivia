@@ -2038,6 +2038,66 @@
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
+    },
+    {
+        "id": 171,
+        "category": "Sports",
+        "question": "What wide receiver caused a sensation during his rookie season with a one-handed catch?",
+        "answers": ["Odell Beckham Jr."],
+        "answerType": "name",
+        "difficulty": "medium",
+        "points": 400,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 172,
+        "category": "Sports",
+        "question": "Who was the youngest player to score 10,000 points in the NBA?",
+        "answers": ["LeBron James"],
+        "answerType": "name",
+        "difficulty": "medium",
+        "points": 400,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 173,
+        "category": "Sports",
+        "question": "Who was the first WNBA player to dunk in a playoff game?",
+        "answers": ["Brittney Griner"],
+        "answerType": "name",
+        "difficulty": "medium",
+        "points": 400,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 174,
+        "category": "Sports",
+        "question": "Who was the first NBA player to shatter a backboard?",
+        "answers": ["Chuck Connors"],
+        "answerType": "name",
+        "difficulty": "medium",
+        "points": 400,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 175,
+        "category": "Sports",
+        "question": "What material was first used to cover baseballs?",
+        "answers": ["Leather"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 400,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
     }
 
 ]
