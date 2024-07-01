@@ -2106,7 +2106,7 @@
         "answers": ["Nolan Ryan"],
         "answerType": "name",
         "difficulty": "medium",
-        "points": 400,
+        "points": 500,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -2129,8 +2129,8 @@
         "question": "What team gets the advantage of the first bat?",
         "answers": ["The visiting team"],
         "answerType": "text",
-        "difficulty": "medium",
-        "points": 400,
+        "difficulty": "easy",
+        "points": 200,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -2142,7 +2142,7 @@
         "answers": ["Jackie Mitchell"],
         "answerType": "name",
         "difficulty": "medium",
-        "points": 400,
+        "points": 700,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
@@ -2154,7 +2154,7 @@
         "answers": ["7th Inning"],
         "answerType": "text",
         "difficulty": "medium",
-        "points": 400,
+        "points": 300,
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
