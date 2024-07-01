@@ -2098,6 +2098,66 @@
         "attempts": 0,
         "correctAttempts": 0,
         "hints": []
+    },
+    {
+        "id": 176,
+        "category": "Sports",
+        "question": "Who was the first Major League player to pitch a ball over 100 mph?",
+        "answers": ["Nolan Ryan"],
+        "answerType": "name",
+        "difficulty": "medium",
+        "points": 400,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 177,
+        "category": "Sports",
+        "question": "What is the name of the fictitious Minor League Baseball team on The Simpsons?",
+        "answers": ["The Springfield Isotopes"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 400,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 178,
+        "category": "Sports",
+        "question": "What team gets the advantage of the first bat?",
+        "answers": ["The visiting team"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 400,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 179,
+        "category": "Sports",
+        "question": "What female pitcher once struck out Babe Ruth and Lou Gehrig?",
+        "answers": ["Jackie Mitchell"],
+        "answerType": "name",
+        "difficulty": "medium",
+        "points": 400,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
+    },
+    {
+        "id": 180,
+        "category": "Sports",
+        "question": "During which inning is 'Take Me Out to the Ballgame' traditionally sung?",
+        "answers": ["7th Inning"],
+        "answerType": "text",
+        "difficulty": "medium",
+        "points": 400,
+        "attempts": 0,
+        "correctAttempts": 0,
+        "hints": []
     }
 
 ]
